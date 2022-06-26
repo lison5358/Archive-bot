@@ -55,4 +55,5 @@ class Msg:
     uploading = "uploading archive..."
     unknow_error = "An unknown error occurred"
     downloading = "downloading..."
+    add = "Added Successfully 🤗"
     zero_files = "No files were sent"
